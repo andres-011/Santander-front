@@ -1,0 +1,25 @@
+h1 {
+    color: blue;
+    font-size: 25px;
+}
+
+h2 {
+    color: #0d3a96;
+}
+h3 {
+    color: yellow;
+}
+
+p {
+    color: #11dba9cc;
+}
+
+button {
+   color: red;
+   background-color: springgreen;
+}
+
+body{
+    background-color: pink;
+    background-image: url(https://api-manager.universia.net/coreplatform-document-management/api/document-management/public/qc2quhklmqbsm5);
+}
